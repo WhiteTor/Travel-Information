@@ -81,7 +81,7 @@
 
  하지만, 기존에 정부에서 미리 제작해놓은 구 여권의 재고 소진을 위하여, 희망자에 한하여 여권 유효 기간을 4년 11개월로 한정한 대신 낮은 가격에 구 여권을 발급해주고 있습니다. 만약 본인이 [병역미필자](https://www.passport.go.kr/new/board/data.php?idx=6011&sel=1)이거나 기타 사유로 10년짜리 여권이 필요하지 않은 경우, 구 여권의 발급은 경비 절감에 도움이 될 수도 있습니다. 구 여권의 발급은 남은 재고에 한하여 발급되므로, 소진시 발급이 불가하니 구청 여권과에 미리 문의 후 방문하시기 바랍니다.
 
-**[외교부 여권 변경사항 안내 바로가기](https://www.passport.go.kr/new/board/passport_info.php)**
+**[외교부 여권 변경사항 안내 바로가기](https://www.passport.go.kr/new/board/passport_info.php)**  
 **[여권발급수수료 안내 바로가기](https://www.passport.go.kr/new/issue/commission.php)**
 
 
