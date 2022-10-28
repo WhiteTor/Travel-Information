@@ -54,7 +54,7 @@
 #### 1.2. 숙소
 
 숙소명: **UENO MINN**  
-주소: [〒110-0015 東京都台東区東上野１丁目１９−5](https://goo.gl/maps/hoXs1c6m7Rj9LzAt9)
+주소: <a href="https://goo.gl/maps/hoXs1c6m7Rj9LzAt9" target="_blank"> [〒110-0015 東京都台東区東上野１丁目１９−5] </a>
 
 
 
